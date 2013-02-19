@@ -1,0 +1,18 @@
+{
+    "name": "alt-dependency",
+    "description": "Renames a dependency in a package.json file.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Glenn Porter",
+        "email": "glenn.porter@live.com"
+    },
+    "private": false,
+    "engines": {
+      "node": ">=0.8"
+    },
+    "readmeFilename": "README.md",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/alexlatchford/testbuild.git"
+    }
+}
