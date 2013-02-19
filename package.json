@@ -7,12 +7,15 @@
         "email": "glenn.porter@live.com"
     },
     "private": false,
+    "bin": {
+      "alt-dependency": "./app.js"
+    },
     "engines": {
       "node": ">=0.8"
     },
     "readmeFilename": "README.md",
     "repository": {
       "type": "git",
-      "url": "https://github.com/alexlatchford/testbuild.git"
+      "url": "https://github.com/GlennPorter/alt-dependency.git"
     }
 }
